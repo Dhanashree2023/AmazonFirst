@@ -8,6 +8,8 @@ public class Test {
 		System.out.println("TEST CASE 1 : LOGIN ");
 		
 		System.out.println("TEST CASE 2: Search Product");
+		
+		System.out.println("TEST CASE 3: buy now");
 	}
 
 }
